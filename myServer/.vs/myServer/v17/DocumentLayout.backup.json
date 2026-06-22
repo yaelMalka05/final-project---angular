@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\classes\\visitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\classes\\visitors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\controllers\\feedingtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\feedingtimescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\classes\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\classes\\animals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\classes\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\classes\\tickets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\classes\\feedingtimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\classes\\feedingtimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|h:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myserver\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D4E636-A884-4ECE-842A-45AAC40C1C4C}|webApi\\webApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeedingTimesController.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\FeedingTimesController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\FeedingTimesController.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\FeedingTimesController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\FeedingTimesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\AnimalsController.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\AnimalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\TicketsController.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\TicketsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\DataBase.cs",
+              "RelativeDocumentMoniker": "webApi\\classes\\DataBase.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\DataBase.cs",
+              "RelativeToolTip": "webApi\\classes\\DataBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorsController.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\VisitorsController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\VisitorsController.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Controllers\\VisitorsController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\VisitorsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Animals.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Animals.cs",
+              "RelativeDocumentMoniker": "webApi\\classes\\Animals.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Animals.cs",
+              "RelativeToolTip": "webApi\\classes\\Animals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedingTimes.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\FeedingTimes.cs",
+              "RelativeDocumentMoniker": "webApi\\classes\\FeedingTimes.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\FeedingTimes.cs",
+              "RelativeToolTip": "webApi\\classes\\FeedingTimes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visitors.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Visitors.cs",
+              "RelativeDocumentMoniker": "webApi\\classes\\Visitors.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Visitors.cs",
+              "RelativeToolTip": "webApi\\classes\\Visitors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tickets.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Tickets.cs",
+              "RelativeDocumentMoniker": "webApi\\classes\\Tickets.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\classes\\Tickets.cs",
+              "RelativeToolTip": "webApi\\classes\\Tickets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Program.cs",
+              "RelativeDocumentMoniker": "webApi\\Program.cs",
+              "ToolTip": "H:\\\u05D9\u05D3\\1.\u05DE\u05D5\u05E8\u05D4\\angular\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05E1\u05D5\u05E4\u05D9\\myServer\\webApi\\Program.cs",
+              "RelativeToolTip": "webApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIAwwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:17:19.748Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

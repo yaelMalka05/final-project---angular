@@ -1,0 +1,232 @@
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\appsettings.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\webApi.exe
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CopyComplete
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\server\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\appsettings.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\webApi.exe
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.pack.json
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.Up2Date
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+H:\יד\1.מורה\angular\פרויקט סופי\server\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\appsettings.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.exe
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webApi.props
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CopyComplete
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+D:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\appsettings.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.exe
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.csproj.Up2Date
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\bin\Debug\net6.0\webApi.staticwebassets.endpoints.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\rpswa.dswa.cache.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\rjimswa.dswa.cache.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json.cache
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\הקורסים שלי\קורס אנגולר - מוריה שבתאי\פרויקט סופי גן חיות\myServer\webApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\appsettings.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\webApi.exe
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webApi.props
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\staticwebassets.pack.json
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.csproj.Up2Date
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+H:\יד\1.מורה\angular\פרויקט סופי\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\appsettings.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.exe
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.webApi.Microsoft.AspNetCore.StaticWebAssets.props
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.build.webApi.props
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.webApi.props
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.webApi.props
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.pack.json
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.Up2Date
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+H:\יד\מלכה יעל\שונות\server\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\appsettings.Development.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\appsettings.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.staticwebassets.endpoints.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.exe
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.deps.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.runtimeconfig.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\webApi.pdb
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.AssemblyReference.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfoInputs.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.AssemblyInfo.cs
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.CoreCompileInputs.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cs
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.MvcApplicationPartsAssemblyInfo.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\scopedcss\bundle\webApi.styles.css
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\swae.build.ex.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.csproj.Up2Date
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\refint\webApi.dll
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.pdb
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\webApi.genruntimeconfig.cache
+D:\שנה ב\יעל מלכה\שונות\server\myServer\webApi\obj\Debug\net6.0\ref\webApi.dll
