@@ -1,0 +1,76 @@
+/* order-tickets.css */
+
+/* רקע כללי וגופן */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e0f7fa; /* תכלת בהיר */
+    margin: 0;
+    padding: 0;
+}
+
+/* כותרת ראשית */
+h1 {
+    text-align: center;
+    color: #00796b; /* טורקיז כהה */
+    margin-top: 30px;
+}
+
+/* טופס מרכזי */
+form {
+    background-color: #ffffff;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* שדות קלט */
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border: 1px solid #b2ebf2;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+/* שדה נבחר */
+input:focus {
+    border-color: #26c6da;
+    outline: none;
+    box-shadow: 0 0 5px #26c6da;
+}
+
+/* הודעות שגיאה */
+div p {
+    color: #d32f2f; /* אדום */
+    font-size: 12px;
+    margin: -10px 0 10px 0;
+}
+
+/* כפתור שליחה */
+input[type="submit"] {
+    width: 100%;
+    background-color: #4dd0e1; /* תכלת בינוני */
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+input[type="submit"]:hover {
+    background-color: #26c6da; /* תכלת כהה יותר */
+}
+
+/* ריווח בין הקלטים לכותרות */
+br {
+    line-height: 1.5;
+}

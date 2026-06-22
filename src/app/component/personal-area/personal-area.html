@@ -1,0 +1,47 @@
+<!-- <p>personal-area works!</p> -->
+
+
+<!-- <h1>name</h1> -->
+
+<h1>your tickets</h1>
+
+
+
+<table>
+    <tr>
+        <th>num ticket:</th>
+        <!-- <th>|</th> -->
+        <th>id:</th>
+        <!-- <th>|</th> -->
+        <th>name:</th>
+        <!-- <th>|</th> -->
+        <th>email:</th>
+        <!-- <th>|</th> -->
+        <th>date:</th>
+        <!-- <th>|</th> -->
+        <th>adult cards number:</th>
+        <!-- <th>|</th> -->
+        <th>kids cards number:</th>
+        <!-- <th>|</th> -->
+        <th>price tickets:</th>
+    </tr>
+    <tr *ngFor="let ticket of st.tickets; let i = index">
+        <!-- <br><br> -->
+        <!-- <td>|</td> -->
+        <td>{{ i + 1 }}</td>
+        <!-- <td>|</td> -->
+        <td>{{sv.v.idVisitors}}</td>
+        <!-- <td>|</td> -->
+        <td>{{sv.v.nameVisitors}}</td>
+        <!-- <td>|</td> -->
+        <td>{{sv.v.emailVisitors}}</td>
+        <!-- <td>|</td> -->
+        <td>{{ticket.visitDate}}</td>
+        <!-- <td>|</td> -->
+        <td>{{ticket.numAdult}}</td>
+        <!-- <td>|</td> -->
+        <td>{{ticket.numChild}}</td>
+        <!-- <td>|</td> -->
+        <td>{{ticket.priceTickets}}</td>
+    </tr>
+</table>

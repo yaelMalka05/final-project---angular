@@ -12,6 +12,8 @@ export class TicketsService {
 
   constructor(public http:HttpClient){}
 
+  t:Tickets = new Tickets()
+
   GetTicketsByIdVisitors(id:string):Observable<Array<Tickets>>{
     return this.http.get<Array<Tickets>>(`${this.url}GetTicketsByIdVisitors`)
   }
@@ -26,6 +28,15 @@ export class TicketsService {
 
   DeleteTicketsToVisitors(code:number):Observable <boolean>{
      return this.http.delete<boolean>(`${this.url}DeleteTickets/${code}`)
+  }
+  
+   public tickets: Tickets[] = [];
+   addTicket(t: Tickets) {
+    const copy = Object.assign(new Tickets(), t);
+    this.tickets.push(copy);
+  }
+   getTickets(): Tickets[] {
+    return this.tickets;
   }
   
 }

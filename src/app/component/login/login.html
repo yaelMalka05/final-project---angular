@@ -1,0 +1,38 @@
+<!-- <p>login works!</p> -->
+<div class="container">
+<h1>login here</h1>
+
+<!-- <form action="">
+    <h3>inseret email:</h3>
+    // [ngModel]=""
+    <input type="text" required *ngIf="validId()">
+    <br><br>
+    <h3>insert id:</h3>
+    <input type="text" required>
+    <br><br>
+    <button onclick="send()">ok</button>
+</form>  -->
+
+
+<form [formGroup]="newV" (ngSubmit)="send()">
+    <input type="text" placeholder="identity card"  formControlName="id"><br><br>
+    <div *ngIf="getId.invalid && getId.dirty">
+        <p *ngIf="getId.hasError('required')">שדה חובה</p>
+        <p *ngIf="getId.hasError('pattern')">מכיל רק מספרים</p>
+        <p *ngIf="getId.hasError('maxlength')">מכיל עד 9 מספרים</p>
+    </div>
+    <input type="email" placeholder="email"  formControlName="email"><br><br>
+    <div *ngIf="getEmail.invalid && getEmail.dirty">
+        <p *ngIf="getId.hasError('required')">שדה חובה</p>
+        <!-- not working  -->
+        <p *ngIf="getId.hasError('email')">אמייל לא תקין</p>
+    </div>
+    <input type="submit" value="ok">
+</form>
+</div>
+
+
+
+
+<!-- <h1>do not have a account?</h1>
+<button onclick="">click here</button> -->

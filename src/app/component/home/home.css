@@ -1,0 +1,65 @@
+/* עיצוב כללי לגוף הדף */
+body {
+    font-family: 'Verdana', sans-serif;
+    background-color: #fff8dc; /* צהוב בהיר */
+    color: #4b2e05; /* חום כהה */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* עיצוב הכותרות */
+h1 {
+    background-color: #6aa84f;
+    color: #fff8dc;
+    text-align: center;
+    padding: 20px 0;
+    margin: 50px auto 20px auto; /* חשוב: auto למרכז */
+    border-bottom: 5px solid #4b2e05;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+
+    width: 80%;
+    display: block;
+}
+
+/* עיצוב הפסקאות בתוך div */
+div {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+div p {
+    background-color: #fff3b0;
+    padding: 20px;
+    margin: 0 0 25px 0;
+    border-left: 8px solid #6aa84f;
+    border-radius: 10px;
+    line-height: 1.7;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.1);
+    max-width: 700px; /* מגביל את רוחב הפסקה */
+    text-align: center; /* ממרכז את הטקסט */
+}
+
+/* אפקט hover לפסקאות */
+div p:hover {
+    background-color: #fce788;
+    transform: translateY(-3px);
+    transition: all 0.3s ease;
+}
+
+/* עיצוב קישורים אם יהיו */
+a {
+    color: #4b2e05;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #6aa84f;
+    text-decoration: underline;
+}

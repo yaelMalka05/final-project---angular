@@ -1,0 +1,147 @@
+<!-- <p>our-animals works!</p> -->
+
+
+<br><br><br><br><br><br><br><br>
+
+
+<!-- <table>
+    <tr>
+        <th>name animal:</th>
+        <th>|</th>
+        <th>image animal:</th>
+        <th>|</th>
+        <th>description animal:</th>
+        <br>
+        <th>|</th>
+        <th>ageAnimals animal:</th>
+        <th>|</th>
+        <th>typeFood:</th>
+        <th>|</th>
+        <th>timeFeeding:</th>
+        <th>|</th>
+        <td>typeFood:</td>
+        <td>|</td>
+        <td>timeFeeding:</td>
+    </tr>
+    <tr *ngFor="let animal of a ,let food of f ">
+        <td>{{ animal.nameAnimals }}</td>
+        <td>|</td>
+         <td>{{ animal.image }}</td>
+         <td> -->
+          <!-- הפוך את התמונה ללחיצה -->
+          <!-- <img [src]="animal.image" alt="{{animal.nameAnimals}}" class="thumb" (click)="openModalFromEvent($event)">
+        </td>
+        <td>|</td>
+        <td>{{ animal.description }}</td>
+        <br>
+        <td>|</td>
+        <td>{{ animal.ageAnimals }}</td>
+        <td>|</td>
+        <td>{{ food.typeFood }}</td>
+        <td>|</td>
+        <td>{{ food.timeFeeding }}</td>
+    </tr> -->
+    <!-- <tr *ngFor="let food of f">
+        <td>|</td>
+        <td>{{ food.typeFood }}</td>
+        <td>|</td>
+        <td>{{ food.timeFeeding }}</td>
+    </tr> -->
+<!-- </table>  -->
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Image</th>
+      <th>Description</th>
+      <th>Age</th>
+      <th>Gender</th>
+      <th>Food</th>
+      <th>Feeding Time</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let animal of a">
+      <td>{{ animal.nameAnimals }}</td>
+
+      <!-- תמונה לחיצה -->
+      <td>
+        <img
+          [src]="animal.image"
+          alt="{{animal.nameAnimals}}"
+          class="thumb"
+          (click)="openModalSrc(animal.image)">
+      </td>
+
+      <td>{{ animal.description }}</td>
+      <td>{{ animal.ageAnimals }}</td>
+      <td>{{ animal.genderAnimals }}</td>
+      <!-- סוגי אוכל -->
+      <td>
+        <div *ngFor="let food of getFoodsForAnimal(animal.codeAnimals)">
+          {{ food.typeFood }}
+        </div>
+      </td>
+
+      <!-- זמני האכלה -->
+      <td>
+        <div *ngFor="let food of getFoodsForAnimal(animal.codeAnimals)">
+          {{ food.timeFeeding | date:'shortTime' }}
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal-overlay" *ngIf="modalOpen" (click)="closeModal()">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <button class="modal-close" (click)="closeModal()" aria-label="close">×</button>
+    <img *ngIf="selectedImage" [src]="selectedImage" alt="preview" class="modal-image">
+  </div>
+</div>
+
+
+
+<!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+<h1>Giraffe</h1>
+<img src="ג'ירפה.PNG" alt="pic"  class="thumb" (click)="openModalFromEvent($event)"   style="width: 420px;">
+<h1>bear</h1>
+<img src="דוב.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)"   style="width: 420px;">
+<h1>lion</h1>
+<img src="אריה.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)"   style="width: 420px;">
+<h1>wolf</h1>
+<img src="זאב.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>zebra</h1>
+<img src="זברה.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>tiger</h1>
+<img src="נמר.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>elephant</h1>
+<img src="פיל.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>penguin</h1>
+<img src="פינגווין.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>monkey</h1>
+<img src="קוף.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>kangaroo</h1>
+<img src="קנגרו.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>rhino</h1>
+<img src="קרנף.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+<h1>crocodile</h1>
+<img src="תנין.jpg" alt="pic" class="thumb" (click)="openModalFromEvent($event)" style="width: 420px;">
+ -->
+
+
+
+<!-- <div class="modal-overlay" *ngIf="modalOpen" (click)="closeModal()">
+  <div class="modal-content" (click)="$event.stopPropagation()">
+    <button class="modal-close" (click)="closeModal()" aria-label="close">×</button>
+    <img *ngIf="selectedImage" [src]="selectedImage" alt="preview" class="modal-image">
+  </div>
+</div> -->

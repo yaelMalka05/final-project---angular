@@ -1,0 +1,136 @@
+/* =========================
+   🌲 רקע כללי - יער לילה
+========================= */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #0b1e12, #1e0f08);
+  color: #eae2d6;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* עלים זזים ברקע */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background-image:
+    radial-gradient(circle, rgba(60,120,70,0.08) 10%, transparent 11%),
+    radial-gradient(circle, rgba(90,60,30,0.06) 10%, transparent 11%);
+  background-size: 150px 150px;
+  animation: leavesMove 60s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes leavesMove {
+  0% { background-position: 0 0, 0 0; }
+  100% { background-position: -300px 300px, 300px -300px; }
+}
+
+/* =========================
+   📊 טבלה
+========================= */
+table {
+  width: 95%;
+  margin: 50px auto;
+  border-collapse: collapse;
+  background: rgba(20, 40, 30, 0.88);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 15px 35px rgba(0,0,0,0.7);
+  backdrop-filter: blur(6px);
+  position: relative;
+  z-index: 1;
+}
+
+/* כותרות */
+th {
+  background: linear-gradient(90deg, #2a4b34, #543b28);
+  color: #f0e6d2;
+  padding: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* תאים */
+td {
+  padding: 12px;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  color: #f0e6d2;
+}
+
+/* שורות */
+tr:nth-child(even) {
+  background: rgba(255,255,255,0.02);
+}
+
+tr:hover {
+  background: rgba(60, 100, 70, 0.25);
+  transition: 0.3s ease;
+}
+
+/* =========================
+   🖼️ תמונות
+========================= */
+.thumb {
+  width: 120px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 2px solid #3b5a40;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.6);
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.thumb:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.8);
+}
+
+/* =========================
+   🪟 מודאל
+========================= */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 10, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  position: relative;
+  width: 55vw;
+  height: 55vh;
+  background: linear-gradient(135deg, #1b2e1f, #3a2517);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 12px 50px rgba(0,0,0,0.7);
+  overflow: hidden;
+}
+
+.modal-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.modal-close {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: rgba(255,255,255,0.1);
+  border: none;
+  font-size: 28px;
+  color: #f0e6d2;
+  cursor: pointer;
+  border-radius: 8px;
+  padding: 2px 10px;
+}

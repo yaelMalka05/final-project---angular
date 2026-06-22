@@ -14,4 +14,9 @@ export class AnimalsService {
       return this.http.get<Array<Animals>>(`https://localhost:7293/api/Animals/GetAllAnimals`)
   }
   
+
+  a:Animals = new Animals();
+
+  
+
 }

@@ -1,0 +1,34 @@
+<!-- <p>order-tickets works!</p> -->
+
+
+<h1>order here</h1>
+
+<!-- <h2>how many do you want?</h2> -->
+
+
+<form [formGroup]="newT" (ngSubmit)="send()">
+    <input type="text" placeholder="identity card"  formControlName="id"><br><br>
+    <div *ngIf="getId.invalid && getId.dirty">
+        <p *ngIf="getId.hasError('required')">שדה חובה</p>
+        <p *ngIf="getId.hasError('pattern')">מכיל רק מספרים</p>
+        <p *ngIf="getId.hasError('maxlength')">מכיל עד 9 מספרים</p>
+    </div>
+    <input type="email" placeholder="email"  formControlName="email"><br><br>
+    <div *ngIf="getEmail.invalid && getEmail.dirty">
+        <p *ngIf="getEmail.hasError('required')">שדה חובה</p>
+        <p *ngIf="getEmail.hasError('email')">אמייל לא תקין</p>
+    </div>
+    <input type="text" placeholder="name"  formControlName="name"><br><br>
+    <div *ngIf="getName.invalid && getName.dirty">
+        <p *ngIf="getName.hasError('required')">שדה חובה</p>
+    </div>
+    <input type="date" placeholder="date"  formControlName="visitDate"><br><br>
+    <div *ngIf="getVisitDate.invalid && getVisitDate.dirty">
+        <p *ngIf="getVisitDate.hasError('required')">שדה חובה</p>
+    </div>
+    <input type="number" placeholder="adult cards number" formControlName="numAdult">
+    <br><br>
+    <input type="number" placeholder="kids cards number" formControlName="numChild">
+    <br><br>
+    <input type="submit" value="ok">
+</form>
